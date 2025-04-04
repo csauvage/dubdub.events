@@ -116,13 +116,14 @@ Check out [twostraws's WWDC archive repo](https://github.com/twostraws/wwdc) for
 
 
 ![Clever cloud logo](https://cdn.clever-cloud.com/uploads/2023/03/logowhitetext-1.svg)
+
 **🚀 Clever Cloud: Your DevOps Superpower in the Cloud**
 
 Clever Cloud is a Platform-as-a-Service (PaaS) designed to make developers’ lives easier—and honestly, more fun. Forget the headaches of provisioning, scaling, patching, or setting up alerts at 2 a.m. Clever Cloud automates all that, so you can focus on shipping code, not fighting servers. Supporting over 25 languages—including Node.js, Python, PHP, Go, Rust, **and Swift** and more—it gives you the freedom to build in whatever stack you love most. 
 
 And here’s where it gets even cooler: our own website and serverless API and production-grade database are hosted on Clever Cloud, powered by their home-grown innovation: **[MateriaDB](https://www.clever-cloud.com/fr/materia-serverless/)**. MateriaDB is a serverless, fully-managed, and *scalable-to-infinity* database system that grows with your needs—no cold starts, no lock-in, and no setup fuss. Compatible with Redis today (and soon DynamoDB and GraphQL), it’s like getting a Swiss Army knife for your data, minus the cuts.
 
-It’s built on FoundationDB, distributed across multiple Parisian datacenters, and designed to be robust, lightning-fast, and developer-friendly out of the box.
+It’s built on FoundationDB, distributed across multiple datacenters, and designed to be robust, lightning-fast, and developer-friendly out of the box.
 
 Bonus: everything is ISO 27001:2022 certified, fully GDPR-compliant, and hosted in Europe—so your data sovereignty is never in question. Oh, and pricing? It’s per-second billing, meaning you only pay for what you use. Clever, right?
 
