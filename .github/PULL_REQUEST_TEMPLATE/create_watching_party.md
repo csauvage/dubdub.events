@@ -20,8 +20,13 @@
 ## Additional Information
 - **Expected Attendance**:
 - **Special Requirements** (if any):
-- **Online/Offline**:
 - **Language**:
+
+## Validation Checklist
+- [ ] The link is freely available for everyone to read
+- [ ] The link hasn't already been submitted
+- [ ] The link is in the correct format: `Time - name (registration link)`. For example, `- 6 p.m. : Cocoaheads WWDC25 Watching Party - [Registration suggested](https://lu.ma/...)`
+- [ ] The linked material is suitable for a general audience
 
 ## Checklist
 - [ ] I have verified all event details are accurate

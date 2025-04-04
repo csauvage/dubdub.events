@@ -37,6 +37,14 @@
 - **Key Topics Covered**:
 - **Language**:
 
+## Validation Checklist
+- [ ] The link is freely available for everyone to read
+- [ ] The link hasn't already been submitted
+- [ ] The link isn't about rumors
+- [ ] The linked material is suitable for a general audience
+- [ ] If this is a deal/offer, I have verified it's a discounted paid product and put it in the 📦 Special Offers
+- [ ] If this is a deal/offer, this is the only Offers link I have submitted or updated in this PR
+
 ## Checklist
 - [ ] I have verified all content details are accurate
 - [ ] I have included all required information

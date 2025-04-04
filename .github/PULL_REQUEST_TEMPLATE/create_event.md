@@ -26,6 +26,13 @@
 - **Target Audience**:
 - **Key Speakers/Presenters** (if applicable):
 - **Special Requirements** (if any):
+- **Language**:
+
+## Validation Checklist
+- [ ] The link is freely available for everyone to read
+- [ ] The link hasn't already been submitted
+- [ ] The link is in the correct format: `Time - name (registration link)`. For example, `- 7 p.m. : 🇫🇷 Frenchy Dinner @ WWDC25 - [Registration suggested](https://lu.ma/9vs7dmot)`
+- [ ] The linked material is suitable for a general audience
 
 ## Checklist
 - [ ] I have verified all event details are accurate
