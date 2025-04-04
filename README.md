@@ -25,11 +25,17 @@ Events are happening in and around Cupertino — and all over the world. Many in
 ### Events in and around Cupertino
 
 **Saturday, June 7th, 2025**  
+- 10 a.m. : WWDC Run : 5 miles - [Registration suggested](https://lu.ma/uob9fld4) 
+
+
+
 **Sunday, June 8th, 2025**
 - ⏰ TBD — WWDC Check-in, refreshments, and games @ Infinite Loop *(WWDC ticket required)*
 
 **Monday, June 9th, 2025**
 - ⏰ TBD — Special Event @ Apple Park *(WWDC ticket required)*
+
+- 7 p.m. : 🇫🇷 Frenchy Dinner @ WWDC25 - [Registration suggested](https://lu.ma/9vs7dmot) 
 
 **Tuesday, June 10th, 2025**
 - Apple Developer Center Sessions — Morning, Afternoon, Evening *(WWDC ticket required)*
