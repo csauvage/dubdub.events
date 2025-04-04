@@ -35,7 +35,7 @@ Events are happening in and around Cupertino — and all over the world. Many in
 **Monday, June 9th, 2025**
 - ⏰ TBD — Special Event @ Apple Park *(WWDC ticket required)*
 
-- 7 p.m. : 🇫🇷 Frenchy Dinner @ WWDC25 - [Registration suggested](https://lu.ma/9vs7dmot) 
+- 7 p.m. : 🇫🇷 Frenchy Dinner @ WWDC25 - [Mandatory Registration](https://lu.ma/9vs7dmot) 
 
 **Tuesday, June 10th, 2025**
 - Apple Developer Center Sessions — Morning, Afternoon, Evening *(WWDC ticket required)*
